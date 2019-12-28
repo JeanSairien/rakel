@@ -2161,6 +2161,8 @@ input, select, textarea {
 /* Image */
 
 	.image {
+		max-width: 10vw;
+		max-height: 30vh;
 		border: 0;
 		display: inline-block;
 		position: relative;
